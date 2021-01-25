@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Yanari's github stats](https://github-readme-stats.vercel.app/api?username=yanari&show_icons=true&theme=calmhide=contribs,issues)
+![Yanari's github stats](https://github-readme-stats.vercel.app/api?username=yanari&show_icons=true&theme=calm&hide=contribs,issues&line_height=30)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanari&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
