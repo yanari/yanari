@@ -26,8 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanari&show_icons=true&theme=calm&locale=en&layout=compact&hide_border=true&count_private=true&langs_count=8" alt="yanari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yanari&theme=calm&hide_border=true" alt="yanari" /></p>
-
 <div align="right">
 <h3>Connect with me:</h3>
 <a href="https://dev.to/yanari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yanari" height="30" width="40" /></a>
