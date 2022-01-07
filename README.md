@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yanarimy@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AsUUjsql8GcfgmilPTwPvE-iImhA](https://1drv.ms/b/s!AsUUjsql8GcfgmilPTwPvE-iImhA)
+- 📄 Know about my [experiences](https://github.com/yanari/yanari/blob/main/Curriculo_EN.pdf)
 
 - ⚡ Fun fact **I'm trying to quit coffee**
 
