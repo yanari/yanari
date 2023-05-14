@@ -20,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanari&show_icons=true&theme=calm&locale=en&layout=compact&hide_border=true&count_private=true&langs_count=8" alt="yanari" /></p>
 
-<div align="right">
+<div>
 <h3>Connect with me:</h3>
 <a href="https://dev.to/yanari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yanari" height="30" width="40" /></a>
 <a href="https://instagram.com/chuubait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chuubait" height="30" width="40" /></a>
