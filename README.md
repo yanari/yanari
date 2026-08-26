@@ -1,7 +1,5 @@
 # yanari
 
-> Recruiter-friendly proof and contact path.
-
 ## Header
 
 Hi, I'm **yanari**. This README shares what I'm building, the tools I use, and the work I'm proud of.
